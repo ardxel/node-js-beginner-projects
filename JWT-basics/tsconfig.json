@@ -1,0 +1,17 @@
+{
+  "ts-node": {
+    "esm": true
+  },
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "es5",
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
